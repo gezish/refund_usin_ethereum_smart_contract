@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.11;
 
-contract PerchaseAgreement{
+contract pay_geo{
     uint public value;
     address payable public employeer;
     address payable public employee;
